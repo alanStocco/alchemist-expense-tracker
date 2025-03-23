@@ -8,6 +8,8 @@ And **time is everything** — the real gold for a modern alchemist.
 
 ## TODO / To Implement:
 
+0. Make works the budget recap and analysis from the insert expense screen.
+
 1. **Multiple profiles**: personal, couple, family, business.  
    ➤ *Improve*: Integrate a backend API (e.g., Django) to share data with others.  
    *Optional, but possible.*
