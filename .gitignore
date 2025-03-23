@@ -34,3 +34,10 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+/src/submissions/
+
+.expo-shared/
+android/.gradle/
+ios/Pods/
+*.log
